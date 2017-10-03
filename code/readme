@@ -1,0 +1,22 @@
+Mark Worrall
+Oct 2/2017
+Assignment 1
+
+The source files that are needed to run the PMan program are:
+
+pman.c
+mylibs.c
+mylibs.h
+linked_list.h
+linked_list.c
+
+foo.c has been included as a test program which sleeps for 100 microseconds.
+
+
+-To compile, just run:
+
+	make -B
+
+and the makefile should compile everything.
+
+-Use ./pman to run the program
